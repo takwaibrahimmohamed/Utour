@@ -549,6 +549,7 @@ background-color: #FBFDF8;
 }
 /*=================== end partner section ======================== */
 /*=================== start scroll ======================== */
+
 .scroll{
   overflow: scroll;
   overflow-x: hidden;
@@ -558,11 +559,11 @@ background-color: #FBFDF8;
 .scroll::-webkit-scrollbar {
   width:5px;
 }
-.scroll::-webkit-scrollbar-track {
+.scroll::-webkit-scrollbar-track{
   -webkit-box-shadow:inset 0 0 6px #EFF1ED; 
   border-radius:5px;
 }
-.scroll::-webkit-scrollbar-thumb {
+.scroll::-webkit-scrollbar-thumb{
   border-radius:5px;
   -webkit-box-shadow: inset 0 0 6px #C5C7C3; 
  
